@@ -10,6 +10,6 @@ This is a **Streamlit-based web application** for performing **Dependency Parsin
 
 ## 🛠 Installation & Usage
 ### 1️⃣ Clone Repository
-
+```bash
 git clone <your-repo-url>
 cd dependency_parser
